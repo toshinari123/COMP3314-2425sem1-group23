@@ -1,5 +1,13 @@
 # COMP3314 2024-25 sem 1 group 23
 
+# Paper details
+
+- Title: Visualizing Data using t-SNE
+- Authors: Laurens van der Maaten, Geoffrey Hinton
+- Venue: Journal of Machine Learning Research 9 (2008) 
+
+https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf
+
 # How to run
 
 ## prerequisite
@@ -22,3 +30,7 @@ jl
 pip install ipykernel
 python -m ipykernel install --user --name=playground
 ```
+
+# Reproduced figures
+
+All figures but the 2 regarding random walk variation of t-SNE are reproduced. (one of them is simply an explanation diagram and does not need algorithm output)
